@@ -1,0 +1,14 @@
+Bordes i3wm --> gaps
+Menu --> rofi
+Transparencia --> compton
+Fondo de pantalla --> feh
+
+Tipo fuente --> font awasome  
+  https://github.com/FortAwesome/Font-Awesome/releases/download/5.15.3/fontawesome-free-5.15.3-desktop.zip
+
+Configuraciones pantalla de inicio --> lightdm-gtk-greeter-settings
+
+Thema nord
+installar --> snapd
+installar --> core
+instalar --> nordic-themes
